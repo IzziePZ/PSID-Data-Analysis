@@ -162,7 +162,4 @@ The full PDF version of this analysis is included:
 ## 👤 Author
 
 **Julian Izquierdo Martinez**  
-DAT 402 — Arizona State University  
-Professor: Kobi Abayomi  
-Date: October 17, 2025
 
