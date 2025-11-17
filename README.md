@@ -2,7 +2,6 @@
 
 <p align="left">
   <img alt="Project Status" src="https://img.shields.io/badge/status-completed-brightgreen?style=for-the-badge">
-  <img alt="R Language" src="https://img.shields.io/badge/Made%20with-R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge">
   <img alt="Report" src="https://img.shields.io/badge/report-PDF-orange?style=for-the-badge">
   <img alt="Last Updated" src="https://img.shields.io/badge/updated-2025-blue?style=for-the-badge">
